@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+
+ .subheader {
+  border-left: 2px dotted black;
+  padding: 20px;
+  margin: 10px;
+ }
+
+ .QA {
+  padding: 20px;
+  margin: 10px;
+ }
